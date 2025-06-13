@@ -261,3 +261,4 @@ C:\Users\admin\source\repos\CustomerFeedbackPortal\CustomerFeedbackPortal\obj\De
 C:\Users\admin\source\repos\CustomerFeedbackPortal\CustomerFeedbackPortal\obj\Debug\net8.0\CustomerFeedbackPortal.pdb
 C:\Users\admin\source\repos\CustomerFeedbackPortal\CustomerFeedbackPortal\obj\Debug\net8.0\CustomerFeedbackPortal.genruntimeconfig.cache
 C:\Users\admin\source\repos\CustomerFeedbackPortal\CustomerFeedbackPortal\obj\Debug\net8.0\ref\CustomerFeedbackPortal.dll
+C:\Users\admin\source\repos\CustomerFeedbackPortal\CustomerFeedbackPortal\obj\Debug\net8.0\CustomerFeedbackPortal.sourcelink.json
