@@ -35,7 +35,7 @@ Technologies Used :
 
 5.Git & GitHub (version control)
 
-User Manual
+User Manual:
 
 1.Visit the website and go to Give Feedback > Add new feedback
 
@@ -47,7 +47,7 @@ User Manual
 
 5.Click Submit
 
-Admin Panel
+Admin Panel:
 
 1.Navigate to /Feedback/Index
 
@@ -55,7 +55,7 @@ Admin Panel
 
 3.Use Edit, Details, or Delete as needed
 
-Support
+Support:
 
 For queries or support, contact:
 
